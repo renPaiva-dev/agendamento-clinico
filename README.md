@@ -302,7 +302,7 @@ e informe suas próprias credenciais do PostgreSQL.
 
 # 📸 Demonstração
 
-> Adicione aqui capturas de tela da aplicação.
+![Tela Inicial](images/home.png)
 
 Sugestão:
 
